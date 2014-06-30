@@ -1,0 +1,15 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "gotoposition",
+			"details": "https://github.com/breck7/gotoposition",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/breck7/gotoposition/tags"
+				}
+			]
+		}
+	]
+}
