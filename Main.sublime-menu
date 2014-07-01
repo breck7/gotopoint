@@ -4,7 +4,7 @@
     "children":
     [
         {
-        	"command": "goto_position" }
+        	"command": "goto_point" }
     ]
 }
 ]

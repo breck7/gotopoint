@@ -2,12 +2,12 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
-			"name": "gotoposition",
-			"details": "https://github.com/breck7/gotoposition",
+			"name": "gotopoint",
+			"details": "https://github.com/breck7/gotopoint",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/breck7/gotoposition/tags"
+					"details": "https://github.com/breck7/gotopoint/tags"
 				}
 			]
 		}
